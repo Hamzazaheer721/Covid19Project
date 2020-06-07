@@ -19,7 +19,7 @@ class Extreme extends Component {
       <Stack.Screen 
       name="Home" 
       component={Home} 
-      options={{ title: 'Corona Virus Statistics',
+      options={{ title: 'Covid-19 Statistics',
         headerTitleAlign: 'center',
         headerTintColor: 'black',
         headerStyle: {backgroundColor: '#feda6a'},
